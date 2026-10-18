@@ -1,16 +1,57 @@
-## Hi there 👋
+# Inderjeet Singh
 
-<!--
-**imInderjeetGil/imInderjeetGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Backend Engineering | AI-Integrated Applications
 
-Here are some ideas to get you started:
+I build practical software systems — from REST APIs and database-backed applications to cloud deployment and AI-powered workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a Computer Science & Engineering student focused on backend development, system integration, cloud infrastructure, and building useful products.
+
+- **Backend:** Python, FastAPI, REST APIs, SQLAlchemy, JWT authentication
+- **Databases:** PostgreSQL, MongoDB, ChromaDB
+- **Cloud & DevOps:** Docker, Docker Compose, Nginx, AWS EC2, S3, ECR, GitHub Actions
+- **AI integration:** RAG pipelines, embeddings, vector search, Ollama, LLM applications
+- **Exploring:** React, Rust, and Tauri
+
+I learn by building end-to-end applications, solving integration challenges, and taking projects from local development toward deployment.
+
+## Featured Projects
+
+### [WearIt](https://github.com/imInderjeetGil/WearIt)
+Full-stack fashion e-commerce with FastAPI, PostgreSQL, authentication, payment integration, AWS infrastructure, and AI-powered features.
+
+`FastAPI` `React` `PostgreSQL` `Docker` `AWS`
+
+### [MyRag-AI](https://github.com/imInderjeetGil/MyRag-AI)
+A document-based AI assistant with semantic retrieval, local LLM inference, streaming responses, chat history, and authentication.
+
+`FastAPI` `React` `ChromaDB` `Ollama` `MongoDB`
+
+### [FileForge](https://github.com/imInderjeetGil/FileForge-Ultimate-File-Sorter)
+A Windows desktop file-organization utility using configurable rules, folder monitoring, and native integration.
+
+`Tauri` `Rust` `React` `Vite`
+
+### [MediVault](https://github.com/imInderjeetGil/MediVault---ICU-Patient-Deterioration-Prediction-System)
+An ICU monitoring and risk-prediction prototype integrating patient records, vital-sign views, and an XGBoost-powered FastAPI service. Not intended for real clinical decisions.
+
+`React` `FastAPI` `Directus` `PostgreSQL` `XGBoost`
+
+## Engineering Interests
+
+- Designing maintainable APIs and backend services
+- Database modeling and application integration
+- Containerization, reverse proxies, and cloud deployment
+- AI and retrieval pipelines integrated into usable applications
+- Reliability through validation, testing, health checks, and documentation
+
+## Connect
+
+- [GitHub](https://github.com/imInderjeetGil)
+- LinkedIn: add your LinkedIn profile URL
+- Portfolio: add your portfolio URL
+
+---
+
+*Build useful things. Understand the systems behind them. Keep improving.*
