@@ -28,7 +28,7 @@ I learn by building end-to-end applications, solving integration challenges, and
 
 - [GitHub](https://github.com/imInderjeetGil)
 - [LinkedIn](https://www.linkedin.com/in/iminderjeet)
-- [E-mail](myselfinderjeetgill@gmail.com)
+- [E-mail](mailto:aman@example.com)
 
 ---
 
